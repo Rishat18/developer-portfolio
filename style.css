@@ -53,3 +53,22 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#stack-developer{
+    border-left: 8px solid;
+    border-image: linear-gradient(salmon,tomato);
+    border-image-slice: 1;
+}
+#baby-developer{
+    border-left: 8px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color: blue;
+    background-color: black;
+    height: 700px;
+    font-size: 20px;
+}
+
+
